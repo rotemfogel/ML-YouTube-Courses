@@ -4,55 +4,63 @@ At DAIR.AI we ❤️ open education. In this repo we share some of the best and 
 
 **Machine Learning**
 
-- [Stanford CS229: Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#stanford-cs229-machine-learning)
-- [Making Friends with Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#making-friends-with-machine-learning)
-- [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#applied-machine-learning)
-- [Introduction to Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-machine-learning-Tübingen)
-- [Introduction to machine learning (Munich)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#Introduction-to-machine-learning-Munich)
-- [Statistical Machine Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#statistical-machine-learning-Tübingen)
-- [Probabilistic Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#probabilistic-machine-learning)
+- [Stanford CS229: Machine Learning](#stanford-cs229-machine-learning)
+- [Making Friends with Machine Learning](#making-friends-with-machine-learning)
+- [Applied Machine Learning](#applied-machine-learning)
+- [Introduction to Machine Learning (Tübingen)](#introduction-to-machine-learning-Tübingen)
+- [Machine Learning Lecture (Stefan Harmeling)](#machine-learning-lecture-stefan-harmeling)
+- [Statistical Machine Learning (Tübingen)](#statistical-machine-learning-Tübingen)
+- [Probabilistic Machine Learning](#probabilistic-machine-learning)
 
 **Deep Learning**
 
+- [MIT: Deep Learning for Art, Aesthetics, and Creativity](#mit-deep-learning-for-art-aesthetics-and-creativity)
 - [Stanford CS230: Deep Learning (2018)](#stanford-cs230-deep-learning-2018)
-- [Practical Deep Learning for Coders (2020)](https://github.com/dair-ai/ML-YouTube-Courses#practical-deep-learning-for-coders-2020)
-- [Introduction to Deep Learning (MIT)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#introduction-to-deep-learning)
-- [Deep Learning: CS 182](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-cs-182)
-- [Deep Unsupervised Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-unsupervised-learning)
-- [NYU Deep Learning SP21](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nyu-deep-learning-sp21)
-- [Deep Learning (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-Tübingen)
-- [Full Stack Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#full-stack-deep-learning)
+- [Practical Deep Learning for Coders](#practical-deep-learning-for-coders)
+- [Introduction to Deep Learning (MIT)](#introduction-to-deep-learning)
+- [Deep Learning: CS 182](#deep-learning-cs-182)
+- [Deep Unsupervised Learning](#deep-unsupervised-learning)
+- [NYU Deep Learning SP21](#nyu-deep-learning-sp21)
+- [Foundation Models](#foundation-models) 🆕
+- [Deep Learning (Tübingen)](#deep-learning-Tübingen)
+- [Full Stack Deep Learning](#full-stack-deep-learning)
 
 **NLP**
 
-- [NLP Course (Hugging Face)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#nlp-course-hugging-face)
-- [CS224N: Natural Language Processing with Deep Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cs224n-natural-language-processing-with-deep-learning)
-- [CMU Neural Networks for NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-neural-networks-for-nlp)
-- [CS224U: Natural Language Understanding](https://github.com/dair-ai/ML-YouTube-Courses#cs224u-natural-language-understanding)
-- [CMU Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#cmu-advanced-nlp)
-- [Multilingual NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#multilingual-nlp)
-- [Advanced NLP](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#advanced-nlp)
+- [Stanford CS25 - Transformers United](#stanford-cs25---transformers-united)
+- [NLP Course (Hugging Face)](#nlp-course-hugging-face)
+- [CS224N: Natural Language Processing with Deep Learning](#cs224n-natural-language-processing-with-deep-learning)
+- [CMU Neural Networks for NLP](#cmu-neural-networks-for-nlp)
+- [CS224U: Natural Language Understanding](#cs224u-natural-language-understanding)
+- [CMU Advanced NLP 2021/2022](#cmu-advanced-nlp) 🆕
+- [Multilingual NLP](#multilingual-nlp)
+- [Advanced NLP](#advanced-nlp)
 
 **Computer Vision**
-
-- [Deep Learning for Computer Vision](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision)
-- [Deep Learning for Computer Vision (DL4CV)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-learning-for-computer-vision-dl4cv)
+- [CS231N: Convolutional Neural Networks for Visual Recognition](#cs231n-convolutional-neural-networks-for-visual-recognition)
+- [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
+- [Deep Learning for Computer Vision (DL4CV)](#deep-learning-for-computer-vision-dl4cv)
 
 **Reinforcement Learning**
 
-- [Deep Reinforcement Learning](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#deep-reinforcement-learning)
-- [Reinforcement Learning Lecture Series (DeepMind)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-lecture-series-deepmind)
-- [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#reinforcement-learning-polytechnique-montreal-fall-2021)
-- [Foundations of Deep RL](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#foundations-of-deep-rl)
+- [Deep Reinforcement Learning](#deep-reinforcement-learning)
+- [Reinforcement Learning Lecture Series (DeepMind)](#reinforcement-learning-lecture-series-deepmind)
+- [Reinforcement Learning (Polytechnique Montreal, Fall 2021)](#reinforcement-learning-polytechnique-montreal-fall-2021)
+- [Foundations of Deep RL](#foundations-of-deep-rl)
+- [Stanford CS234: Reinforcement Learning](#stanford-cs234-reinforcement-learning)
 
 **Graph ML**
 
-- [Machine Learning with Graphs (Stanford)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#machine-learning-with-graphs-stanford)
-- [AMMI Geometric Deep Learning Course (2021)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#ammi-geometric-deep-learning-course-2021)
+- [Machine Learning with Graphs (Stanford)](#machine-learning-with-graphs-stanford)
+- [AMMI Geometric Deep Learning Course](#ammi-geometric-deep-learning-course)
+
+**Multi-Task Learning**
+- [Multi-Task and Meta-Learning (Stanford)](#stanford-cs330-deep-multi-task-and-meta-learning)
 
 **Others**
 
-- [Self-Driving Cars (Tübingen)](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md#self-driving-cars-Tübingen)
+- [Self-Driving Cars (Tübingen)](#self-driving-cars-Tübingen)
+- [Advanced Robotics (Berkely)](#advanced-robotics-uc-berkely)
 
 ---
 
@@ -85,6 +93,19 @@ A series of mini lectures covering various introductory topics in ML:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+
+## MIT: Deep Learning for Art, Aesthetics, and Creativity
+
+Covers the application of deep learning for art, aesthetics, and creativty.
+
+- Nostalgia -> Art -> Creativity -> Evolution as Data + Direction
+- Efficient GANs
+- Explorations in AI for Creatvity
+- Neural Abstractions
+- Easy 3D Content Creation with Consistent Neural Fields
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
 
 ## Stanford CS230: Deep Learning (2018)
 
@@ -130,20 +151,21 @@ The course serves as a basic introduction to machine learning and covers key con
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 
-## Introduction to Machine Learning (Munich)
+## Machine Learning Lecture (Stefan Harmeling)
 
-Covers many supervised machine learning concepts.
+Covers many fundamental ML concepts:
 
-- Machine Learning Basics
-- Supervised Regression and Classification
-- Performance Evaluation
-- Classification and Regression Trees (CART)
-- Information Theory
-- Linear and Nonlinear Support Vector Machine
+- Bayes rule
+- From logic to probabilities
+- Distributions
+- Matrix Differential Calculus
+- PCA
+- K-means and EM
+- Causality
 - Gaussian Processes
 - ...
 
-🔗 [Link to Course](https://introduction-to-machine-learning.netlify.app/)(YouTube links are embedded within the chapters)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt)
 
 ## Statistical Machine Learning (Tübingen)
 
@@ -163,19 +185,20 @@ The course covers the standard paradigms and algorithms in statistical machine l
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 
-## Practical Deep Learning for Coders (2020)
+## Practical Deep Learning for Coders
 
-After finishing this course you will know:
+This course covers topics such as how to:
 
-- How to train models that achieve state-of-the-art results
-- How to turn your models into web applications, and deploy them
-- Why and how deep learning models work, and how to use that knowledge to improve the accuracy, speed, and reliability of your models
-- The latest deep learning techniques that really matter in practice
-- How to implement stochastic gradient descent and a complete training loop from scratch
-- How to think about the ethical implications of your work, to help ensure that you're making the world a better place and that your work isn't misused for harm
+- Build and train deep learning models for computer vision, natural language processing, tabular analysis, and collaborative filtering problems
+- Create random forests and regression models
+- Deploy models
+- Use PyTorch, the world’s fastest growing deep learning software, plus popular libraries like fastai and Hugging Face
+- Foundations and Deep Dive to Diffusion Models
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
+🔗 [Link to Course - Part 1](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+
+🔗 [Link to Course - Part 2](https://www.youtube.com/watch?v=_7rMfsA24Ls&ab_channel=JeremyHoward)
 
 ## Machine Learning with Graphs (Stanford)
 
@@ -257,6 +280,12 @@ To learn some of the advanced techniques in deep learning:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 
+## Foundation Models
+
+To learn about foundation models like GPT-3, CLIP, Flamingo, Codex, and DINO.
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL9t0xVFP90GD8hox0KipBkJcLX_C3ja67)
+
 ## Deep Learning (Tübingen)
 
 This course introduces the practical and theoretical principles of deep neural networks.
@@ -269,6 +298,21 @@ This course introduces the practical and theoretical principles of deep neural n
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
+
+## Stanford CS25 - Transformers United
+
+This course consists of lectures focused on Transformers, providing a deep dive and their applications
+
+- Introduction to Transformers
+- Transformers in Language: GPT-3, Codex
+- Applications in Vision
+- Transformers in RL & Universal
+Compute Engines
+- Scaling transformers
+- Interpretability with transformers
+...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 ## NLP Course (Hugging Face)
 
@@ -338,7 +382,9 @@ To learn:
 - Adversarial learning
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+🔗 [Link to 2021 Edition](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
+
+🔗 [Link to 2022 Edition](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
 
 ## Multilingual NLP
 
@@ -353,7 +399,9 @@ To learn the latest concepts for doing multilingual NLP:
 - Active Learning
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+🔗 [Link to 2020 Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
+
+🔗 [Link to 2022 Course](https://www.youtube.com/playlist?list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7)
 
 ## Advanced NLP
 
@@ -370,6 +418,25 @@ To learn advanced concepts in NLP:
 ...
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
+
+## CS231N: Convolutional Neural Networks for Visual Recognition
+
+Stanford's Famous CS231n course. The videos are only available for the Spring 2017 semester. The course is currently known as Deep Learning for Computer Vision, but the Spring 2017 version is titled Convolutional Neural Networks for Visual Recognition.
+
+- Image Classification
+- Loss Functions and Optimization
+- Introduction to Neural Networks
+- Convolutional Neural Networks
+- Training Neural Networks
+- Deep Learning Software
+- CNN Architectures
+- Recurrent Neural Networks
+- Detection and Segmentation
+- Visualizing and Understanding
+- Generative Models
+- Deep Reinforcement Learning
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) 🔗 [Link to Materials](http://cs231n.stanford.edu/2017/)
 
 ## Deep Learning for Computer Vision
 
@@ -401,7 +468,7 @@ To learn modern methods for computer vision:
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
 
-## AMMI Geometric Deep Learning Course (2021)
+## AMMI Geometric Deep Learning Course
 
 To learn about concepts in geometric deep learning:
 
@@ -412,7 +479,7 @@ To learn about concepts in geometric deep learning:
 - Sequences and Time Warping
 ...
 
-🔗 [Link to Course](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 
 ## Deep Reinforcement Learning
 
@@ -511,6 +578,48 @@ A mini 6-lecture series by Pieter Abbeel.
 - Model-based RL
 
 🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
+
+
+## Stanford CS234: Reinforcement Learning
+
+Covers topics from basic concepts of Reinforcement Learning to more advanced ones:
+
+- Markov decision processes & planning
+- Model-free policy evaluation
+- Model-free control
+- Reinforcement learning with function approximation & Deep RL
+- Policy Search
+- Exploration
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  🔗 [Link to Materials](https://web.stanford.edu/class/cs234/)
+
+## Stanford CS330: Deep Multi-Task and Meta Learning
+
+This is a graduate-level course covering different aspects of deep multi-task and meta learning.
+
+- Multi-task learning, transfer learning basics 
+- Meta-learning algorithms 
+- Advanced meta-learning topics 
+- Multi-task RL, goal-conditioned RL
+- Meta-reinforcement learning 
+- Hierarchical RL
+- Lifelong learning
+- Open problems
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)  🔗 [Link to Materials](https://cs330.stanford.edu/)
+
+## Advanced Robotics: UC Berkeley
+
+This is course is from Peter Abbeel and covers a review on reinforcement learning and continues to applications in robotics.
+
+- MDPs: Exact Methods
+- Discretization of Continuous State Space MDPs
+- Function Approximation / Feature-based Representations
+- LQR, iterative LQR / Differential Dynamic Programming
+- ...
+
+🔗 [Link to Course](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)  🔗 [Link to Materials](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
 ---
 
